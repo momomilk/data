@@ -11,7 +11,34 @@
 
 <!-- ========================================================================================================================================================== -->
  <subchannels>
-
+<subchannel>
+                <name>AKTIVITI PKG TAWAU</name>
+                <thumbnail></thumbnail>
+                <subitems>
+                	<subitem>
+                        <title>BENGKEL LAMAN SESAWANG 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QLbiDSyj6W8</link>
+						<thumbnail>http://skkbt.webs.com/skkbt.png</thumbnail>
+                    </subitem>
+					<subitem>
+                        <title>BENGKEL FOTOGRAFI 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rtyt97ZyAdo</link>
+						<thumbnail>http://skkbt.webs.com/skkbt.png</thumbnail>
+                    </subitem>
+					
+					<subitem>
+                        <title>BENGKEL AUTOMASI 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kgIDIwumsAk</link>
+						<thumbnail>http://skkbt.webs.com/skkbt.png</thumbnail>
+                    </subitem>
+					<subitem>
+                        <title>BENGKEL FILEM PENDEK 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j4Zbd98uMc4</link>
+						<thumbnail></thumbnail>
+                    </subitem>
+                    </subitems>
+			</subchannel>
+		</items>
             <subchannel>
                 <name>KOLEKSI FILEM PENDEK PENDIDIKAN DAERAH TAWAU</name>
                 <thumbnail></thumbnail>
@@ -32,7 +59,7 @@
                       <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Jydh9wsBSek</link>
 						<thumbnail></thumbnail>
                     </subitem>
-				</subitems>
+                    </subitems>
 			</subchannel>
 		</items>
 </channel>
