@@ -159,6 +159,47 @@
 <link>http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8</link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/501_300.png</thumbnail>
 </item>
+
+<item>
+<title>AL JAZEERA ENGLISH</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png</thumbnail>
+</item>
+
+<item>
+<title>BBC WORLD NEWS</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
+</item>
+
+<item>
+<title>ARIRANG HD - South Korea</title>
+<link>http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8 live=true timeout=15</link>
+<thumbnail>http://caribbeanpot.com/wp-content/uploads/2013/11/korea-tv.png</thumbnail>
+</item> 
+
+<item>
+<title>ESPN 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX</title>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=88&amp;lan=2&amp;rows=40&amp;f=.m3u8|User-Agent=stagefright</link>
+</item>
+
+<item>
+<title>WARNER</title>
+<link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=92&amp;lan=2&amp;rows=40&amp;f=.m3u8|User-Agent=stagefright</link>
+</item>
+
+
+
+
+
+
+
 </channel>	
 
 
