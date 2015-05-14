@@ -119,9 +119,47 @@
 <name>[COLOR=FF00FF00]By FT17 SK Kinabutan Besar Tawau[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<items>
+<item>
+<title>- TV1</title>
+<link>http://streamer1.cf.aws.stream.my/live/ngrp:rtm-ch001_international.stream_all/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/40/TV1_Logo_2011.png</thumbnail>
+</item>
 
-</items>
+<item>
+<title>- Tv2</title>
+<link>http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>- Tv3</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://gerbangpost.com/wp-content/uploads/2014/03/tv3.png</thumbnail>
+</item>
+
+<item>
+<title>- NTV7</title>
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-rArA_md6Yrc/UMV2VxlC3hI/AAAAAAAAATQ/nupy_AAetbo/s1600/ntv7.png</thumbnail>
+</item>
+
+<item>
+<title>- 8TV</title>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>https://cdn.rawgit.com/nontontv2013/nonton-tv-net-project/20150318a/public_html/image/tv8malay.png</thumbnail>
+</item>
+
+<item>
+<title>- Tv9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/archive/5/51/20130220110810!Logo_tv9_baru.png</thumbnail>
+</item>
+
+<item>
+<title>- Astro Awani</title>
+<link>http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8</link>
+<thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/501_300.png</thumbnail>
+</item>
 </channel>	
 
 
