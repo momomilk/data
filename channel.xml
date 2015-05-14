@@ -16,25 +16,60 @@
                 <thumbnail></thumbnail>
                 <subitems>
                 	<subitem>
+                        <title>VIDEO KOPERAT PKG TAWAU 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GK9jeYFWS-o</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+                	</subitem>
+                	<subitem>
+                        <title>FROG VLE JURULATIH UTAMA TAWAU 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O1vsHdBhp9E</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+                	</subitem>
+                	<subitem>
+                        <title>FESTIVAL APRESIASI PSS KM1M 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=of8IJtZeA9w</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+                	</subitem>
+                	<subitem>
+                        <title>VIDEO AKTIVITI PKG TAWAU 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yJN9Rm7hxxE</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+			</subitem>
+                	<subitem>
+                        <title>PERKAMPUNGAN NILAM DAERAN TAWAU 2012 KALI KE 2</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iysCqbBTY5s</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+                    </subitem>
+                	<subitem>
+                        <title>PKB & TNC 2012</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Db8uqKWcgEk</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+                    </subitem>
+                	<subitem>
+                        <title>KURSUS PEMBANGUNAN PORTAL & CLOUD MAXIS</title>
+                      <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yZi4oSKh_KU</link>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
+                    </subitem>
+                	<subitem>
                         <title>BENGKEL LAMAN SESAWANG 2012</title>
                       <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QLbiDSyj6W8</link>
-						<thumbnail>http://skkbt.webs.com/skkbt.png</thumbnail>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
                     </subitem>
 					<subitem>
                         <title>BENGKEL FOTOGRAFI 2012</title>
                       <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rtyt97ZyAdo</link>
-						<thumbnail>http://skkbt.webs.com/skkbt.png</thumbnail>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
                     </subitem>
 					
 					<subitem>
                         <title>BENGKEL AUTOMASI 2012</title>
                       <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kgIDIwumsAk</link>
-						<thumbnail>http://skkbt.webs.com/skkbt.png</thumbnail>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
                     </subitem>
 					<subitem>
                         <title>BENGKEL FILEM PENDEK 2012</title>
                       <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j4Zbd98uMc4</link>
-						<thumbnail></thumbnail>
+						<thumbnail>http://www.freewebs.com/redzal/pkgtawau.png</thumbnail>
                     </subitem>
                     </subitems>
 			</subchannel>
@@ -71,7 +106,7 @@
 </items>
 </channel>	
 <channel>
-<name>[COLOR=FF00FF00]By Mohd Redzal[/COLOR]</name>
+<name>[COLOR=FF00FF00]By FT17 SK Kinabutan Besar Tawau[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
