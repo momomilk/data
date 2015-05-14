@@ -209,7 +209,7 @@
 </item>
 
 
-
+<subchannels>
             <subchannel>
                 <name>KOLEKSI FILEM PENDEK PENDIDIKAN DAERAH TAWAU</name>
                 <thumbnail></thumbnail>
@@ -231,7 +231,8 @@
 						<thumbnail></thumbnail>
                     </subitem>
                     </subitems>
-			</subchannel>
+                    </subchannel>
+			</subchannels>
 		</items>
 </channel>
 
