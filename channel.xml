@@ -211,19 +211,29 @@
                 <thumbnail></thumbnail>
                 <subitems>
 <subitem>
-#EXTM3U
-#EXTINF:-1,HBO
-http://31.220.40.108/LiveEdge/HBOLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+<title>- HBO</title>
+<link>http://31.220.40.108/LiveEdge/HBOLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb</link>
+<thumbnail></thumbnail>
 </subitem>
 
-#EXTINF:-1,HBO Family
-http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+<subitem>
+<title>- HBO Family</title>
+<link>http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb</link>
+<thumbnail></thumbnail>
+</subitem>
 
-#EXTINF:-1,HBO 2
-http://31.220.40.108/LiveEdge/HBO2SD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+<subitem>
+<title>- HBO 2</title>
+<link>http://31.220.40.108/LiveEdge/HBO2SD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb</link>
+<thumbnail></thumbnail>
+</subitem>
 
-#EXTINF:-1,HBO Plus
-http://31.220.40.108/LiveEdge/HBOPlusLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+<subitem>
+<title>- HBO Plus</title>
+<link>http://31.220.40.108/LiveEdge/HBOPlusLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb</link>
+<thumbnail></thumbnail>
+</subitem>
+
 
 #EXTINF:-1,HBO Plus 2
 http://31.220.40.108/LiveEdge/HBOPus2LASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
