@@ -214,6 +214,7 @@
 #EXTM3U
 #EXTINF:-1,HBO
 http://31.220.40.108/LiveEdge/HBOLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+</subitem>
 
 #EXTINF:-1,HBO Family
 http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
