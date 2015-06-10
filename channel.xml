@@ -118,6 +118,13 @@
 <channel>
 <name>[COLOR=FF00FF00]By Momomilk@Teruterubozu@Falala[/COLOR]</name>
 <thumbnail></thumbnail>
+
+<item>
+<title>- test</title>
+<link>rtmp://128.199.216.145:1935/live/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png</thumbnail>
+</item>
+
 <item>
 <title>- TV1</title>
 <link>http://streamer1.cf.aws.stream.my/live/ngrp:rtm-ch001_international.stream_all/playlist.m3u8</link>
