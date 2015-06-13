@@ -48,7 +48,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lime]===UK TV===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR lightseagreen]BBC ONE[/COLOR]
-http://ipm.firstonetv.com:1345/live/bbc1/cd3df6d056fcd35a837f74c650225514a70c087f5970e445b80dab016b870992.m3u8
+http://204.107.27.241/live/14.low.stream/chunklist.m3u8?id=0ad5aac39bb13fbedf5cd67ce7ff78b0fa3501778b8fd015b0d7b27eff58e970bd1b96952181bc24257b6d132d96ae0594bea42b05f482c0ed65ba774da90953ec4fbe9f7115759ec37b9cd1f94cfebea13a3c3d5dcfd7e10774f77e6517b39a7e20909e4d8f840fa867b717d03b89a9c234d9e698004c0a009f2cd7f581d1c4cb008c363608e918e48ba5f3d59d27f7cf4362e7858b5538&wowzasessionid=521276852
 #EXTINF:-1, [COLOR lightseagreen]BBC TWO[/COLOR]
 http://204.107.27.241/live/25.low.stream/chunklist.m3u8?id=0ad5aac39bb13fbec8f830eefe13a5f1bb932ee680b3d18a4c91fa5c31d6f64759927fa5e1928444c05845097b7f53f2ded9cf4b1fff9e1e9ba787c672c6b266134ed0a9040cce545b7932f16826fbebadec564e33f2d0e7450c2b3975db801baa5840960ad3322feeb02bf2f3ef93c3ad42040ec8125d62349f31ee3bb157491b429169f79faa95752f82333a64c27b7d5a6593c74352f3&wowzasessionid=1483222783
 #EXTINF:-1, [COLOR lightseagreen]BBC THREE[/COLOR]
