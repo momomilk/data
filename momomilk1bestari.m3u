@@ -19,7 +19,7 @@ http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
 #EXTINF:-1, [COLOR lime]==ASIAN TV==[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR mediumpurple]ARIRANG[/COLOR]
-http://live307.edge.filmon.com/live/932.low.stream/chunklist_w970728910.m3u8?id=0ad5aac39bb13fbe07688a72b11e9b678f5ba204407ae503b3bff6c18451235b63aba4528a07fa08fb6ea0d6752473ae3b58660f0163a26cecbe7b6eb00c0e087226a55fbc329debedfe9f2cc970b4039f92ccfd7dcdda616370599453332e61d658a45faa7998edd34d0dc5e621e423dfbb528352602ebb21f970c03b39da7b6b8854f2f0dbd103e2f9f8a3ccd16e186f09fe9e4108238c
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8 live=true timeout=15
 #EXTINF:-1, [COLOR mediumpurple]VTC 10[/COLOR]
 http://198.179.31.198/live/2936.low.stream/2936.low.stream/index.m3u8
 
@@ -29,11 +29,11 @@ http://www.youtube.com
 #EXTINF:-1, [COLOR lightsalmon]ABC NEWS[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1, [COLOR lightsalmon]ALJAZEERA[/COLOR]
-http://webapps.aljazeera.net/brightcove/player/bc-georestrict-msgs.xml
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:-1, [COLOR lightsalmon]BBC NEWS[/COLOR]
-http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lightsalmon]BLOOMBERG[/COLOR]
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 #EXTINF:-1, [COLOR orchid]CNBC NEWS[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lightsalmon]CNN[/COLOR]
@@ -63,6 +63,8 @@ http://live303.edge.filmon.com/live/22.low.stream/chunklist_w650644749.m3u8?id=0
 http://204.107.27.248/live/_definst_/1808.low.stream/chunklist_w1446855365.m3u8?id=0ad5aac39bb13fbef42792eea38e1967bbaa00106be31404f1a9fb90f5556338bc78d72f3e1e22b511889ff8d958a1378c232d00351d76acc94580efd62d6c3a727ec08212946df79634f25f03457886091b4190ef75fc58e53fb38710929a820522513b4369fe4ea013975baf21190f588c956377a6285d77dedb6bbbd84f976e5cab411a4695fca938750b37b53bcc1ea26e61be3f71da
 #EXTINF:-1, [COLOR lightseagreen]CBS DRAMA[/COLOR]
 http://204.107.27.248/live/_definst_/1805.low.stream/chunklist_w256267165.m3u8?id=
+#EXTINF:-1, [COLOR lightseagreen]CNBC[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1, [COLOR lightseagreen]GALA TV[/COLOR]
 http://198.179.31.195/live/3383.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7056091394a94fa65e1cbddb88a0b98980976b5ebdca5ecc9a076ed89eb7bcef3ad8f9e1a516849c237545bdd39959c667a5ac7900f9f785d274430ad5460d49da4ce7fe28d176e52c1adc7bf03c70d529c5d76a37667742027a5fb70d3db21b7b07c27be3b14bd03f31ff93549d763ac43c133f53bd7cc093c5895e5500bedcb16bf7d8033fbbfdd673951b1843a895
 
