@@ -29,7 +29,7 @@ http://www.youtube.com
 #EXTINF:-1, [COLOR lightsalmon]ABC NEWS[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1, [COLOR lightsalmon]ALJAZEERA[/COLOR]
-http://live3.gv.edge.filmon.com/live/14.low.stream/chunklist.m3u8?id=0ad5aac39bb13fbee531bc1db79c2331d63ba88c2b5a3e0f22f7689ec9b193e41421c98ec34eb6986ceb6cede3e47fceec19b1898f2d02980a5181b5a292bc65e353628e534e32bc1704eda9c105e70c1aade7ffe9d2e8d026cdf2b8f1cce099adc52bd90c5f7a38941cc51217857cbb03539db3a356e774a2031435cb388936d24800b477728fcc7927bb29013fc7456c8575b5909a35b8&wowzasessionid=746921178
+http://webapps.aljazeera.net/brightcove/player/bc-georestrict-msgs.xml
 #EXTINF:-1, [COLOR lightsalmon]BBC NEWS[/COLOR]
 http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lightsalmon]BLOOMBERG[/COLOR]
