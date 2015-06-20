@@ -35,14 +35,14 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lightsalmon]BLOOMBERG[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:-1, [COLOR orchid]CNBC NEWS[/COLOR]
+#EXTINF:-1, [COLOR lightsalmon]CNBC NEWS[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lightsalmon]CNN[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 #EXTINF:-1, [COLOR lightsalmon]EURONEWS[/COLOR]
 http://live300.edge.filmon.com/live/1672.low.stream/chunklist_w1990473171.m3u8?id=0ad5aac39bb13fbe7b0f15c0c0f4f7416be8cc04eeaad82e73fc2f671dc52dec6ad459ebb95ff3d317710b209a1bb5923165da375e888e03ec6508ef8a7a0778272ee87676d25b15e852c6a78a196ae3503b37483de9df70ab0074b1e899959b1d881a009a06ce166d0aaf07462da0d7c0696483541c323bfe31b3882818112a0b62cd9420d61832d6998f5ce5f4222468c0d5f8aa056171
 #EXTINF:-1, [COLOR lightsalmon]RUSSIA TODAY -RT[/COLOR]
-http://live304.edge.filmon.com/live/93.low.stream/chunklist_w931794083.m3u8?id=0ad5aac39bb13fbece9fa6baf0aa2104327dde4f26acef13ee6a8aca2f0314ef4ab199a289aee43ed0cca58ea97e117c71f7586450143b54d8febac8daee524adaffed5731a5ecf482a9432339bd6f1682f03f1d1183943a862e448ae017e01cbd5c556b26e663bf0649875986d6ca6e72e13a55e0f285b18d8e318432e8dbcf5c97c3de4b449a06cdd1962819c45f7045f15b6fc6137127
+http://79.165.95.225:81/udp/239.255.2.46:1234
 #EXTINF:-1, [COLOR lightsalmon]SKY NEWS INTERNATIONAL[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 
