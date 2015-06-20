@@ -6,15 +6,16 @@ http://streamer1.cf.aws.stream.my/live/ngrp:rtm-ch001_international.stream_all/p
 #EXTINF:-1, [COLOR orchid]TV2[/COLOR]
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/playlist.m3u8
 #EXTINF:-1, [COLOR orchid]TV3[/COLOR]
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8
 #EXTINF:-1, [COLOR orchid]NTV7[/COLOR]
-http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
 #EXTINF:-1, [COLOR orchid]8TV[/COLOR]
-http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 #EXTINF:-1, [COLOR orchid]TV9[/COLOR]
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:-1, [COLOR orchid]ASTRO AWANI[/COLOR]
 http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+
 
 #EXTINF:-1, [COLOR lime]==ASIAN TV==[/COLOR]
 http://www.youtube.com
