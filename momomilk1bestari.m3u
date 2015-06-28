@@ -18,7 +18,7 @@ http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
 
 
 
-
+===================================================================
 #EXTINF:-1, [COLOR lime]==ASIAN TV==[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR mediumpurple]ARIRANG[/COLOR]
@@ -26,7 +26,7 @@ http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvwo
 #EXTINF:-1, [COLOR mediumpurple]VTC 10[/COLOR]
 http://198.179.31.198/live/2936.low.stream/2936.low.stream/index.m3u8
 
-
+==========================================================================
 #EXTINF:-1, [COLOR lime]===NEWS===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR lightsalmon]ABC NEWS[/COLOR]
@@ -48,12 +48,15 @@ http://79.165.95.225:81/udp/239.255.2.46:1234
 #EXTINF:-1, [COLOR lightsalmon]SKY NEWS INTERNATIONAL[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 
+
+
+=================================================================================
 #EXTINF:-1, [COLOR lime]===UK CHANNELS===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR lightseagreen]BBC ONE[/COLOR]
 
 #EXTINF:-1, [COLOR lightseagreen]BBC TWO[/COLOR]
-http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
+
 #EXTINF:-1, [COLOR lightseagreen]CHANNEL 4[/COLOR]
 http://78.129.175.72/live/channel4/channel4.m3u8
 #EXTINF:-1, [COLOR lightseagreen]CHANNEL 5[/COLOR]
@@ -70,8 +73,62 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,82
 
 
 
+#EXTINF:0, BBC 1 (low)
+rtmp://31.220.0.195:80/live playpath=bbcx1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://www.reytv.co/
+#EXTINF:-1, E4 HD
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1, Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1, CARTOON NETWORK
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:-1, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1, HBO Plus EN
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+#EXTINF:-1, Sky Sports 4 SD
+rtmp://31.220.0.195:80/live playpath=ssx4 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://www.reytv.co/
+#EXTINF:-1, Sky Sports 5 SD
+rtmp://80.82.78.85:443/liverepeater playpath=5 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=5&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1, BT Sport 1 SD
+rtmp://31.220.0.195:80/live playpath=bt1s token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://www.reytv.co/
+#EXTINF:-1, British Eurosport 1
+rtmp://137.63.71.18:443/liverepeater playpath=9 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=9&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1, MU TV
+rtmp://31.220.0.195:80/live playpath=mutvr token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://www.reytv.co/
 
 
+
+
+
+
+
+======================================================================
 #EXTINF:-1,[COLOR lime]===US CHANNELSs===[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1, ESPN HD 
@@ -120,7 +177,7 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 #EXTINF:-1, TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
-
+==========================================================================
 #EXTINF:-1, [COLOR lime]===MUSIC===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR slateblue]Channel AKA[/COLOR]
@@ -141,14 +198,14 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1, [COLOR slateblue]VEVO 3[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
+============================================================================
 #EXTINF:-1,[COLOR pink]— Movies —[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1, Comedy Central [COLOR green](english audio)[/COLOR]
 http://188.138.9.228:8022
 #EXTINF:-1, Film4 HD
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
-
+===================================================================
 #EXTINF:-1, [COLOR lime]===SPORT===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR peachpuff]SKY SPORT 1[/COLOR]
@@ -156,7 +213,7 @@ http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
 #EXTINF:-1, [COLOR peachpuff]SKY SPORT 2[/COLOR]
 http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
 
-
+================================================================
 #EXTINF:-1, [COLOR lime]===SHOPPING/FASHION===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR turquoise]JEWELRY TV[/COLOR]
