@@ -16,8 +16,10 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:-1, [COLOR orchid]ASTRO AWANI[/COLOR]
 http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
 
-#EXTINF:-1, [COLOR turquoise]Astro Prima[/COLOR]
-http://www.layarku.tv/media/primav6.m3u8
+#EXTINF:-1, [COLOR turquoise]ANIMAL PLANET[/COLOR]
+http://bit.ly/1QWIiKF
+#EXTINF:-1, [COLOR turquoise]ESPN[/COLOR]
+http://bit.ly/1dq5vCz
 
 
 #EXTINF:-1, [COLOR lime]==ASIAN TV==[/COLOR]
