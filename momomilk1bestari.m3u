@@ -144,34 +144,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:-1,[COLOR pink]— Movies —[/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1, Sky Movies Premiere
-http://185.56.30.127:8082/TV4251
-
-#EXTINF:-1, Sky Movies Premiere+
-http://185.56.30.127:8082/TV4252
-
-#EXTINF:-1, Sky Movies Select
-http://185.56.30.127:8082/TV4254
-
-#EXTINF:-1, Sky Movies Action & Adventure
-http://185.56.30.127:8082/TV4245
-
-#EXTINF:-1, Sky Movies Comedy
-http://185.56.30.127:8082/TV4246
-
-#EXTINF:-1, Sky Movies Disney
-http://185.56.30.127:8082/TV4247
-
-#EXTINF:-1, Sky Movies Family
-http://185.56.30.127:8082/TV4248
-
-#EXTINF:-1, Sky Movies SciFi
-http://185.56.30.127:8082/TV4249
-
 #EXTINF:-1, Comedy Central [COLOR green](english audio)[/COLOR]
 http://188.138.9.228:8022
-
 #EXTINF:-1, Film4 HD
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 
@@ -181,29 +155,7 @@ http://www.youtube.com
 http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
 #EXTINF:-1, [COLOR peachpuff]SKY SPORT 2[/COLOR]
 http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
-#EXTINF:-1, [COLOR peachpuff]GAME TIME[/COLOR]
-http://198.179.31.196/live/1756.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe82e2c5fb3d80f14f7168ebea1c512b13e9e3f5550c91ed7f7a406a5fcf0630b027a5c788217a5b1de16e529741be0d571ccba2a977ea9dc50e5eed6c2a9cddc8358c98f6f42d8c4e5546fd959872eb4b88e4e3fd436de4b03d0d82dbf71083567fc72d5de568f1c943a7f54de829fff4ff4566c37786b547c3c84d3eec16464a2287c71c4be880f191cf40960f2e3be7
-#EXTINF:-1, [COLOR peachpuff]GFL COMBAT SPORT[/COLOR]
-http://198.179.31.197/live/3251.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3153b3651ee97e64697327426210cc82feaa149a954169e9af347821a7a84f8cb3ab0eb8d6a8ca7693f9ac75921b842c4bb34af5f19d60a37032eda106e1f5e80e16b86d81336c31366ce7fd322faecac4f4544f1af36730f14e76dabf5d3e3f3253202458b00af520cda65e191ec87e1dab1b132a35b28557eb1b78ba24395319d23b5e254cc8d58f22574b47118f81
-#EXTINF:-1, [COLOR peachpuff]UFC NEXT[/COLOR]
-http://198.179.31.196/live/713.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe854950a4db9c7466c27be652fd9a99d5d4824733f9d7b568fb1e32a3ca5c8d4c2025b18dbbc2a13ff556edc22659eed9696fbeab230d18d5ac467114602f89add9385e6b18fde7c2a15914c455ad002e5d66941ec5b6dc1ab13589e739d6a6abc6bc2cb6d09baad2bad2aa11b5c80bf50188110cb99bf946803a2d2557c68bf993b7f2de49008a4f2111d47a9cc4f343
-#EXTINF:-1, [COLOR peachpuff]NWA WRESTLING[/COLOR]
-http://198.179.31.196/live/373.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe0f91a5a9c6b0e68281c7b2e2224509c0fb47ad39e16dec08ee81262d576ccb378bca4ea70a3cc31d964eade99acbc306b5581f16f2f82fd3e75462105b4ebc9b5d777102d68d5b7ffc199661fccaeff85d7c2344a4fa8ab6600341d888db4bbcef98cdf36e97a0ede087bbe2b69c6ac9fa28ecc5b6d8df48e91bac1a67bd8d288b014d3cc7f3d621bfc460552471f28c
-#EXTINF:-1, [COLOR peachpuff]X-TREME SPORT[/COLOR]
-http://live305.edge.filmon.com/live/326.low.stream/chunklist_w835778477.m3u8?id=0ad5aac39bb13fbe0f2ec5a2d2fdb7268a6b90d09dae3d9109a67865f97e262051a0648198aa08ccfc857d68e818760f9b9fd86b3b398f53950e603d60a39963b1cbf1c9384f9ae788bc3c59cb44e024861ea745436654dea98487393588cf32547b5b39bbe288772cf62b792aa29320a9af6241c16fedbed38de8ff9d34e56f73d10d749038413d7cd939e47acfb49e05eaec29604f9621
 
-#EXTINF:-1, [COLOR lime]===TRAVEL===[/COLOR]
-http://www.youtube.com
-#EXTINF:-1, [COLOR hotpink]30A TV[/COLOR]
-http://198.179.31.196/live/1714.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb02b7f0b83613c11eedcd64f78e01df8f5ac16cfe3fd4ae61ec77253889e9cd20d7ba01a0d770eff4113a9df97bee4692da919dff3c5fa44a06ed0676902dc56c3a6fb339425e2b7a4e0a4f477762a4d6725349a95e121fab2ff551f0e3d8cb998ee7637fa54df9d553a906dcf8c5109769fac9ed8ddb82716e7f76f70eda30309aa73243452633656fe9320f12f8ad5
-#EXTINF:-1, [COLOR hotpink]AROUND THE WORLD[/COLOR]
-http://198.179.31.196/live/3425.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe42a990b3faff52903e826cfe149fce5f17dfe5e198082bcb2511013076c7a8958c39df94cd0334b8721d41ea3e5226af5c962ca98e22f38c203e84ec8d2b85826fbc9f922e6dfd7cf5aa4afcd93388a4e945714b755e23cde1754adacbdd61a423599529b8d7606e26d8bca2c5513f1ce94d66b792e5e46e9c952b998fd956144e8704f5baf120a7b7898b65a903c3eb
-#EXTINF:-1, [COLOR hotpink]CALIFORNIA LIFE[/COLOR]
-http://198.179.31.196/live/3416.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb9028a6a8567770f2d9e0565c340acc966789f205094f5cec275fae46467548f0d8fb1a1246e069c66d744dd4e08b7369f3cd310f2fae1cb45fbbb34efad4bd409d2b7f1c23e65138091ea303d78398c0f8834bb595bad41d996bbaa7bd61ce4e5b8460d85b891ec167e7da6280c08995f819744d3fafde10dac5e2566787db6bc02f9a0f897007d7a6274205e80d610
-#EXTINF:-1, [COLOR hotpink]TRAVEL CHANNEL +1[/COLOR]
-http://live308.edge.filmon.com/live/842.low.stream/chunklist_w1507328825.m3u8?id=0ad5aac39bb13fbe46acdf7cf3769f207e15ba0e9943e1775fe0b922c9c3e33fa1dbe211cb654350762d06960113856b42004cba7d0e88dd257b15fea362f87fd8d0bc4b1e392bb3ee2139a1a9d9e662fcdbf6c2c0f0541de8e23783ef1b7356453d223d755a7c0079c2ddb7847c8074b94cc766b087985617df08d80c52c4f616af453ee811e8fab48699935aaf012c453288c1374a6dab
-#EXTINF:-1, [COLOR hotpink]OBXTV[/COLOR]
-http://198.179.31.196/live/1049.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe50b8927ada971b1955d7e97aadc4a1159fd689fb33cc40c7764c3eeade427da4e6b7c30ca7768ffe6808f84ad530f27f4e8118cfb3c1acb7d888a29300316e9367509236703ef7fad7dc238996dd623c945e68c537c2e2836b0d942d3a2dd251460c6182108c1fbd4410409eb492dc6834968e49d47612aafdbba3c981efb81585d141d4c77cac953446b44e6c3c602c
 
 #EXTINF:-1, [COLOR lime]===SHOPPING/FASHION===[/COLOR]
 http://www.youtube.com
@@ -211,8 +163,8 @@ http://www.youtube.com
 http://198.179.31.198/live/306.low.stream/306.low.stream/index.m3u8
 #EXTINF:-1, [COLOR turquoise]QBC TV[/COLOR]
 http://198.179.31.198/live/413.low.stream/413.low.stream/index.m3u8
-#EXTINF:-1, [COLOR turquoise]PRODUCT SHOWCASE[/COLOR]
-http://198.179.31.197/live/2704.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedb1284678414949480306f91508458b79e78d051f9b4cdb34553cc9d5350bd4736b078a84ad13c5407c39c063c6b2e4fbf1702682fb27add7356d1d435e6e0de21a8a750735224dc6d425159865941e2f913936d572a357ecb80b2dc9d09a18a542eb5db7e03c34d77cd1cad264016264bcbf1a02d19a706d26679eb1efc23ebf8fa76009593edc383332efbbce33fd2
+
+
 
 
 
