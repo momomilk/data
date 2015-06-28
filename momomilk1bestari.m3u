@@ -49,6 +49,52 @@ http://79.165.95.225:81/udp/239.255.2.46:1234
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 
 
+#EXTINF:-1,==========================================================================
+#EXTINF:-1, [COLOR lime]===MUSIC===[/COLOR]
+http://www.youtube.com
+#EXTINF:-1, [COLOR slateblue]Channel AKA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, [COLOR slateblue]Clubland TV[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, [COLOR slateblue]MTV Music HD[/COLOR]
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+#EXTINF:-1, [COLOR slateblue]MTV HITS[/COLOR]
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+#EXTINF:-1, [COLOR slateblue]MTV DANCE[/COLOR]
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+#EXTINF:-1, [COLOR slateblue]MTV ROCKS[/COLOR]
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:-1, [COLOR slateblue]VEVO 1[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1, [COLOR slateblue]VEVO 2[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1, [COLOR slateblue]VEVO 3[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,============================================================================
+#EXTINF:-1,[COLOR pink]— Movies —[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1, Comedy Central [COLOR green](english audio)[/COLOR]
+http://188.138.9.228:8022
+#EXTINF:-1, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,===================================================================
+#EXTINF:-1, [COLOR lime]===SPORT===[/COLOR]
+http://www.youtube.com
+#EXTINF:-1, [COLOR peachpuff]SKY SPORT 1[/COLOR]
+http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
+#EXTINF:-1, [COLOR peachpuff]SKY SPORT 2[/COLOR]
+http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
+
+#EXTINF:-1,================================================================
+#EXTINF:-1, [COLOR lime]===SHOPPING/FASHION===[/COLOR]
+http://www.youtube.com
+#EXTINF:-1, [COLOR turquoise]JEWELRY TV[/COLOR]
+http://198.179.31.198/live/306.low.stream/306.low.stream/index.m3u8
+#EXTINF:-1, [COLOR turquoise]QBC TV[/COLOR]
+http://198.179.31.198/live/413.low.stream/413.low.stream/index.m3u8
+
+
+
 
 #EXTINF:-1,=================================================================================
 #EXTINF:-1, [COLOR lime]===UK CHANNELS===[/COLOR]
@@ -175,49 +221,7 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 #EXTINF:-1, TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,==========================================================================
-#EXTINF:-1, [COLOR lime]===MUSIC===[/COLOR]
-http://www.youtube.com
-#EXTINF:-1, [COLOR slateblue]Channel AKA[/COLOR]
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1, [COLOR slateblue]Clubland TV[/COLOR]
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1, [COLOR slateblue]MTV Music HD[/COLOR]
-rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
-#EXTINF:-1, [COLOR slateblue]MTV HITS[/COLOR]
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
-#EXTINF:-1, [COLOR slateblue]MTV DANCE[/COLOR]
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
-#EXTINF:-1, [COLOR slateblue]MTV ROCKS[/COLOR]
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF:-1, [COLOR slateblue]VEVO 1[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1, [COLOR slateblue]VEVO 2[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1, [COLOR slateblue]VEVO 3[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,============================================================================
-#EXTINF:-1,[COLOR pink]— Movies —[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1, Comedy Central [COLOR green](english audio)[/COLOR]
-http://188.138.9.228:8022
-#EXTINF:-1, Film4 HD
-http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
-#EXTINF:-1,===================================================================
-#EXTINF:-1, [COLOR lime]===SPORT===[/COLOR]
-http://www.youtube.com
-#EXTINF:-1, [COLOR peachpuff]SKY SPORT 1[/COLOR]
-http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
-#EXTINF:-1, [COLOR peachpuff]SKY SPORT 2[/COLOR]
-http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
 
-#EXTINF:-1,================================================================
-#EXTINF:-1, [COLOR lime]===SHOPPING/FASHION===[/COLOR]
-http://www.youtube.com
-#EXTINF:-1, [COLOR turquoise]JEWELRY TV[/COLOR]
-http://198.179.31.198/live/306.low.stream/306.low.stream/index.m3u8
-#EXTINF:-1, [COLOR turquoise]QBC TV[/COLOR]
-http://198.179.31.198/live/413.low.stream/413.low.stream/index.m3u8
 
 
 
