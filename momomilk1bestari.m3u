@@ -48,31 +48,31 @@ http://79.165.95.225:81/udp/239.255.2.46:1234
 #EXTINF:-1, [COLOR lightsalmon]SKY NEWS INTERNATIONAL[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 
-#EXTINF:-1, [COLOR lime]===UK TV===[/COLOR]
+#EXTINF:-1, [COLOR lime]===UK CHANNELS===[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR lightseagreen]BBC ONE[/COLOR]
-http://204.107.27.241/live/14.low.stream/chunklist.m3u8?id=0ad5aac39bb13fbedf5cd67ce7ff78b0fa3501778b8fd015b0d7b27eff58e970bd1b96952181bc24257b6d132d96ae0594bea42b05f482c0ed65ba774da90953ec4fbe9f7115759ec37b9cd1f94cfebea13a3c3d5dcfd7e10774f77e6517b39a7e20909e4d8f840fa867b717d03b89a9c234d9e698004c0a009f2cd7f581d1c4cb008c363608e918e48ba5f3d59d27f7cf4362e7858b5538&wowzasessionid=521276852
+
 #EXTINF:-1, [COLOR lightseagreen]BBC TWO[/COLOR]
 http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
 #EXTINF:-1, [COLOR lightseagreen]CHANNEL 4[/COLOR]
 http://78.129.175.72/live/channel4/channel4.m3u8
 #EXTINF:-1, [COLOR lightseagreen]CHANNEL 5[/COLOR]
-http://live303.edge.filmon.com/live/22.low.stream/chunklist_w650644749.m3u8?id=0ad5aac39bb13fbe57a116e9e7a3da2f9ddb5ab2c0cb3e9c9e3f37054133c8190ef5bc8afb97f95c71092cc95a6a0849a5bdc22be3e554ef5a27feddaa17022f7425f61e2595b335605a586f8bf03f4a7e2860ab49a204b1e4867d068a51777275b50d6755cca46ca1a32a5548f437c9f1d23634ba170f22542b3e87ec34b3826eae859f7fc24b064c993bb140862c95021378fb0c0a4e90
+
 #EXTINF:-1, [COLOR lightseagreen]CBS REALITY[/COLOR]
-http://204.107.27.248/live/_definst_/1808.low.stream/chunklist_w1446855365.m3u8?id=0ad5aac39bb13fbef42792eea38e1967bbaa00106be31404f1a9fb90f5556338bc78d72f3e1e22b511889ff8d958a1378c232d00351d76acc94580efd62d6c3a727ec08212946df79634f25f03457886091b4190ef75fc58e53fb38710929a820522513b4369fe4ea013975baf21190f588c956377a6285d77dedb6bbbd84f976e5cab411a4695fca938750b37b53bcc1ea26e61be3f71da
+
 #EXTINF:-1, [COLOR lightseagreen]CBS DRAMA[/COLOR]
-http://204.107.27.248/live/_definst_/1805.low.stream/chunklist_w256267165.m3u8?id=
+
 #EXTINF:-1, [COLOR lightseagreen]CNBC[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1, [COLOR lightseagreen]GALA TV[/COLOR]
-http://198.179.31.195/live/3383.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7056091394a94fa65e1cbddb88a0b98980976b5ebdca5ecc9a076ed89eb7bcef3ad8f9e1a516849c237545bdd39959c667a5ac7900f9f785d274430ad5460d49da4ce7fe28d176e52c1adc7bf03c70d529c5d76a37667742027a5fb70d3db21b7b07c27be3b14bd03f31ff93549d763ac43c133f53bd7cc093c5895e5500bedcb16bf7d8033fbbfdd673951b1843a895
+
 #EXTINF:-1, [COLOR lightseagreen]ANIMAL PLANET[/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 
 
 
 
-#EXTINF:-1,[COLOR lime]--- US Channels ---[/COLOR]
+
+#EXTINF:-1,[COLOR lime]===US CHANNELSs===[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1, ESPN HD 
 http://80.80.160.168/live/6/live.m3u8
