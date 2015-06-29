@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,============By autorun.exe/Momomilk===============
+#EXTINF:-1,[COLOR lightseagreen]>>By autorun.exe/Momomilk<<[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR lime]==MALAYSIAN TV==[/COLOR]
 http://www.youtube.com
@@ -98,7 +98,7 @@ http://198.179.31.198/live/413.low.stream/413.low.stream/index.m3u8
 
 
 
-#EXTINF:-1,===============Temporary Link=================
+#EXTINF:-1,[COLOR lightseagreen]>>Temporary Link<<[/COLOR]
 http://www.youtube.com
 #EXTINF:-1, [COLOR lime]===UK CHANNELS===[/COLOR]
 http://www.youtube.com
@@ -106,7 +106,7 @@ http://www.youtube.com
 
 #EXTINF:-1, [COLOR lightseagreen]BBC TWO[/COLOR]
 
-#EXTINF:-1, [COLOR lightseagreen]CHANNEL 4[/COLOR]
+#EXTINF:-1, CHANNEL 4
 http://78.129.175.72/live/channel4/channel4.m3u8
 #EXTINF:-1, [COLOR lightseagreen]CHANNEL 5[/COLOR]
 
@@ -114,7 +114,7 @@ http://78.129.175.72/live/channel4/channel4.m3u8
 
 #EXTINF:-1, [COLOR lightseagreen]CBS DRAMA[/COLOR]
 
-#EXTINF:-1, [COLOR lightseagreen]CNBC[/COLOR]
+#EXTINF:-1, CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1, [COLOR lightseagreen]GALA TV[/COLOR]
 
@@ -175,7 +175,7 @@ rtmp://137.63.71.18:443/liverepeater playpath=9 swfUrl=http://popeoftheplayers.e
 
 
 
-#EXTINF:-1,===============Temporary Link=================
+#EXTINF:-1,[COLOR lightseagreen]>>Temporary Link<<[/COLOR]
 http://www.youtube.com
 #EXTINF:-1,[COLOR lime]===US CHANNELSs===[/COLOR]
 http://0.0.0.0:1234
